@@ -164,7 +164,7 @@ h2{
     border: 1px solid var(--bg_color);
     border-radius: 40px;
 
-    background-image: url(../img/welcome_bg.png);
+    background-image: url("https://cdn.jsdelivr.net/gh/nadulashan/jscdn@1.0.1/img/welcome_bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -250,22 +250,22 @@ h2{
 }
 
 .burger{
-    background-image: url(../img/burger.jpg);
+    background-image: url("https://cdn.jsdelivr.net/gh/nadulashan/jscdn@v1.0.1/img/burger.jpg");
 }
 .pie{
-    background-image: url(../img/pie.jpg);
+    background-image: url("https://cdn.jsdelivr.net/gh/nadulashan/jscdn@v1.0.1/img/pie.jpg");
 }
 .lasanga{
-    background-image: url(../img/lasanga.jpg);
+    background-image: url("https://cdn.jsdelivr.net/gh/nadulashan/jscdn@v1.0.1/img/lasanga.jpg");
 }
 .pizza{
-    background-image: url(../img/pizza.jpg);
+    background-image: url("https://cdn.jsdelivr.net/gh/nadulashan/jscdn@v1.0.1/img/pizza.jpg");
 }
 .salad{
-    background-image: url(../img/salad.jpg);
+    background-image: url("https://cdn.jsdelivr.net/gh/nadulashan/jscdn@v1.0.1/img/salad.jpg");
 }
 .steak{
-    background-image: url(../img/steak.jpg);
+    background-image: url("https://cdn.jsdelivr.net/gh/nadulashan/jscdn@v1.0.1/img/steak.jpg");
 }
 
 .slider_image{
